@@ -12,4 +12,4 @@ There were some noticeable features for other parameters as well, but I could no
 
 ## References:
 
-- Kingslake, J., et al. (2018). Extensive retreat and re-advance of the West Antarctic Ice Sheet during the Holocene. Nature, 558(7710), 430-434.
+- Kingslake, J., et al. (2018). Extensive retreat and re-advance of the West Antarctic Ice Sheet during the Holocene. *Nature*, *558*(7710), 430-434. https://doi.org/10.1038/s41586-018-0208-x
