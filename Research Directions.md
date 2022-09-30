@@ -10,7 +10,7 @@ Furthermore, a larger isostatic rebound is produced with larger mass removed fro
 
 There were some noticeable features for other parameters as well, but I could not identify internal consistency in the trends. Additional simulations are required for a deeper understanding of the effects of the unmentioned parameters.
 
-The parameters of interst will be investigated through Parallel Ice Sheet Model (PISM) simulations. I will plot out glacial isostatic adjustment (GIA) rates, grounding line positions, and ice sheet volumes at different sectors in different time series to identify the influence of each parameter. Furthermore, I will plot out profiles of ice surface and bed height along flow lines for different simulations and time series to examine the outcomes of the lowest SSA enhancement factor and the highest SIA factor.
+The parameters of interst will be investigated through Parallel Ice Sheet Model (PISM) simulations. I will plot out glacial isostatic adjustment (GIA) rates, grounding line positions, and ice sheet volumes at different sectors in different time series to identify the influence of each parameter. Furthermore, I will plot out profiles of ice surface and bed height along flow lines for different simulations and time series to examine the outcomes of the lowest SSA enhancement factor and the highest SIA enhancement factor.
 
 ## References:
 
